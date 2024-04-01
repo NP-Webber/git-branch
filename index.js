@@ -1,13 +1,15 @@
 console.log("hello world");
 
-const a=()=>{
+const a = () => {
     console.log('aaa');
 }
 
-const b=()=>{
+const b = () => {
+    alert("bbbb")
+}
+const c = () => {
     console.log("from branch 1");
 }
-
-const d=()=>{
+const d = () => {
     console.log("ddd  fron branch 1");
 }
