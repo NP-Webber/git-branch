@@ -1,9 +1,13 @@
 console.log("hello world");
 
-const a=()=>{
+const a = () => {
     console.log('aaa');
 }
 
-const b=()=>{
+const b = () => {
     alert("bbbb")
+}
+
+const e = () => {
+    alert("from branch 2")
 }
