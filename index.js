@@ -9,4 +9,7 @@ const b = () => {
 }
 const c = () => {
     console.log("from branch 1");
-}  
+}
+const d = () => {
+    console.log("ddd  fron branch 1");
+}
