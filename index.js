@@ -3,7 +3,6 @@ console.log("hello world");
 const a = () => {
     console.log('aaa');
 }
-
 const b = () => {
     alert("bbbb")
 }
@@ -12,4 +11,7 @@ const c = () => {
 }
 const d = () => {
     console.log("ddd  fron branch 1");
+}
+const e = () => {
+    alert("from branch 2")
 }
